@@ -16,7 +16,7 @@
 
 ## Live Demo
 
-[Live Demo]()
+[Live Demo](https://space-travelers-hub-33o4.vercel.app/)
 
 ### To launch the project locally:
 
